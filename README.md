@@ -1,6 +1,6 @@
 # Program_Design_by_Calculation
 
-Requested for the course "Cálculo de Programas" (Program Design by Calculation) of the Bachelors of Informatics Engineering at Universidade do Minho.
+Requested for the course "Cálculo de Programas" (Program Design by Calculation) of the Bachelor of Informatics Engineering at Universidade do Minho.
 
 This projects was developped by:
 * Daniela Carvalho
